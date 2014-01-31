@@ -1,1 +1,52 @@
 
+h1 {
+position: relative;
+top:275px;
+left:650px;
+font-family: helvetica;
+font-size: 100px;
+}
+
+.content {
+  display: block;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+div {
+  width: 400px;
+  display: inline-block;
+  position: center;
+  padding: 6px;
+}
+
+h2{
+  font-size: 30px;
+  font-family: helvetica;
+}
+
+p{
+  font-size: 20px;
+  font-family: helvetica;
+}
+
+.pictures {
+  display: inline-block;
+  width: 1000px;
+}
+
+img{
+  padding: 5px;
+  position: center;
+  vertical-align: top;
+
+  margin-left: 10px;
+}
+
+.thumbnail{
+ border: 1px solid gray;
+}
+
+
+
+
